@@ -18,7 +18,7 @@ public class Calc {
 			result /= secondNum;
 		}
 		else {
-			System.out.println("Àß¸øµÈ ÀÔ·ÂÀÔ´Ï´Ù.");
+			System.out.println("ë‹¤ì‹œ ìž…ë ¥í•˜ì„¸ìš”.");
 		}
 		return result;
 	}

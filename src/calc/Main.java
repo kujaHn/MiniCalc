@@ -3,7 +3,7 @@ import java.io.*;
 public class Main {
 	public static void main(String args[]) throws Exception{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		System.out.println("°è»êÇÒ °ªÀ» ÀÔ·ÂÇÏ¼¼¿ä.");
+		System.out.println("ì‹ì„ ì…ë ¥í•˜ì„¸ìš”");
 		String[] Question = br.readLine().split(" ");
 		
 		int i = 1;
